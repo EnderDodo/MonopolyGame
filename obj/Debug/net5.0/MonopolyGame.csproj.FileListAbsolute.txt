@@ -1,0 +1,16 @@
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.exe
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.deps.json
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.runtimeconfig.json
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.dll
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\ref\MonopolyGame.dll
+C:\Users\Denis\source\repos\MonopolyGame\bin\Debug\net5.0\MonopolyGame.pdb
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.AssemblyInfo.cs
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.dll
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\ref\MonopolyGame.dll
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.pdb
+C:\Users\Denis\source\repos\MonopolyGame\obj\Debug\net5.0\MonopolyGame.genruntimeconfig.cache
